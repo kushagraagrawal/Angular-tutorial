@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/Angular" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/angular-tour-of-heroes" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/hello-wrold" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/movieapp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/scenario3" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/scenario4" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/scenario5" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/scenario6" vcs="Git" />
+  </component>
+</project>
